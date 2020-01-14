@@ -13,7 +13,7 @@ Sample output:
     '''
 
 
-rom pyspark import SparkConf, SparkContext
+from pyspark import SparkConf, SparkContext
 
 
 conf = SparkConf().setMaster('local').setAppName('Airport latitude')
