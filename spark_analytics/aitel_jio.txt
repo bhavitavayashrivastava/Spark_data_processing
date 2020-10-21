@@ -1,0 +1,50 @@
+While only 78.15 per cent of Jios total subscriber base was active, Airtel boasts of 98.14 per cent active customers.
+Reliance Jio’s falling share of active customers, also known as the Visitor Location Register (VLR), against Bharti Airtels growing numbers, is a talking point in telecom circles.
+VLR denotes subscribers who are active on the network, can send or receive calls, don’t have their mobile switched off and are not outside the coverage area.
+For some investors and analysts, Reliance Jio’s lower figure is definitely concerning, a source said.
+According to the Telecom Regulatory Authority of India (Trai) data for June released last month, when the trend came into sharp focus, Reliance Jio and Airtel had more or less the same number of active subscribers (311 million) or VLRs.
+But a huge difference was spotted between the two rivals in their respective percentage share of active customers to their total subscriber base.
+This includes active and inactive customers and is also known as the Home Location Register (HLR).
+The percentage is known as the VLR ratio.
+Jio had over 87 million users who were inactive customers in June, according to Trai.
+That means only 78.15 per cent of its total subscriber base was active, creating concern that Jio is battling a falling share of active customers while managing to shore up its overall customer base (or HLR) to grab market share.
+Despite the fact that a substantial portion are not paying any revenue at all.
+In contrast, Airtel’s inactive customers stood at only 6 million, implying that 98.14 per cent of its total customers were active.
+The July figures released by Trai on Monday captured a similar trend on the declining VLR ratio.
+HLR contains details of all subscribers who are telco-active or inactive - as long as they remain with the telco’s network.
+When Trai talks of market share, this is the relevant number.
+But for financial analysts, the key number is VLR or active customers.
+Jio and Airtel declined to comment on this contentious issue.
+But Axis Capital dismissed alarm over its lower VLR as ‘unwarranted’ for the following reasons.
+One, Airtel in its quarterly results reported a third subscriber number and that is of revenue paying customers who recharged connections within 30 days.
+If they don’t, their services are disconnected progressively.
+This number is lower than its VLR also.
+In June, Airtel reported 280 million such customers which is 88.4 per cent of TRAI’s reported gross subscribers of HLR of Airtel.
+Jio’s reported number of subscribers in its June quarterly results was the same as its HLR.
+If these two numbers are taken into account, then the gap between Airtel’s paying customers and Jio’s declared quarterly HRL numbers shrinks by 10 percentage points.
+Secondly, Jio, with an all 4G network, is used to a higher proportion of data-only customers as well as a higher number of MiFi (dongle) users who connect to the network at specific times of the day and are not always on like a mobile customer, said Axis Capital.
+It estimates that there are about 15-20 million such revenue paying customers who therefore might not be included in the peak VLR reported by the regulator because their devices are off during that time.
+Thirdly, according to Axis Capital, Jio has a substantial number of rural users (166.3 million in June) who also do not keep their phone on all day for various reasons.
+Assuming 10 per cent of them fall in this category, it explains 3-5 per cent of the VLR gap.
+This hypothesis is reinforced by the fact that the decrease in VLR has coincided with Jio’s increase in the rural subscriber base, especially after the launch of the Diwali Dhamaka.
+For instance, the company saw its rural subscriber base increase by 16 per cent between Q2 FY 20 to Q1 FY 21 to hit 166 million.
+In the same period, Airtel’s went up by 9.4 per cent.
+Fourthly, Jio has a relatively more conservative churn policy - only 0.5 per cent compared to 2-3 per cent of incumbents, despite a higher proportion of pre-paid customers, said Axis Capital.
+This could work to lower the VLR ratio by another 1.5-2.5 per cent because Jio has a higher proportion of subscribers in the high tenure plans which leads the company to give them a larger buffer for recharge.
+Yet another factor is that Jio removes inactive subscribers from the network only after 180 days, unlike its competitors who do so after 90 days owing to a different interpretation of the telecom tariff rules.
+Under these rules, a tariff plan once offered has to be available for a minimum of six months and the incoming call service cannot be chargeable.
+“Based on Jio’s interpretation, these rules imply that once customers have enrolled in any tariff plan, they have to be provided free incoming calls for 180 days,” said a source close to Jio.
+However, incumbent operators say they follow the Trai guidelines saying a number cannot be deactivated before 90 days because of non-usage and not 180 days as it is not a new tariff plan which they are offering.
+Finally, Airtel and Vodafone Idea have intra circle roaming agreements to address their coverage issues for 2G, 3G and 4G in some circles.
+Airtel, with better coverage, could be a gainer which would be reflected in a higher VLR. Jio, on the other hand, has no such agreement.
+Sources close to Jio say that its lower VLR should not worry investors.
+For instance, Jio’s average active customers (the VLR ratio) from May 2019 to June 2020 was 81.66 per cent, far lower than Airtel’s at 95.98 per cent.
+Yet despite the difference, Jio’s VLR subscriber numbers are closing in on Airtel’s.
+Jio critics say that the concern arises from its VLR ratio going down in the last quarter (April-June) to sub 80 per cent month-on-month.
+Sources close to the company say the reason was the mass migration of workers back to their villages owing to the lockdown (20 per cent of its Delhi customers left their home locations) who kept their phones off and did not recharge.
+But, in Airtel’s case, the opposite happened and the VLR ratio moved up from 95.18 per cent in March to 98.14 per cent in June.
+There is another area of debate: who has the highest average revenue per user (ARPU) in a month.
+For Airtel, its revenue paying customer numbers, as declared in its financial results, form the basis of its ARPU calculation.
+Sources in Jio say it calculates it differently, taking the HLR customer number and dividing it by its total revenue.
+They point out that if Jio were to calculate the ARPU based on even the VLR, its ARPUs would shoot up from Rs 140 in June to close to Rs 177.
+In June, Airtel had declared an ARPU of Rs 157.
